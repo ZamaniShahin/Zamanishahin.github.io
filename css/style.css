@@ -233,5 +233,10 @@ header.masthead h1 {
     width: 50%;
     border-radius: 50%;
   }
-
+.img-tab{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 20px auto 0;
+}
 
