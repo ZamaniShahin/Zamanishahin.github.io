@@ -240,3 +240,9 @@ header.masthead h1 {
     margin: 20px auto 0;
 }
 
+.linkedin-badget{
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: inherit !important;
+    width: 251px;
+    height: 257.3px;
+}
