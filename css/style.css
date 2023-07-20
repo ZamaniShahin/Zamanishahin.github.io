@@ -143,7 +143,7 @@ header.masthead {
     padding-bottom: calc(10rem - 72px);
     /* background: -webkit-gradient(linear, right top, right bottom, from(blue), to(blue)), url("../pics/bg-masthead.jpg");
     background: linear-gradient(to bottom, rgba(0,0,0, 0.8) 0%, rgba(255,255,255, 0.8) 100%), url("../pics/bg-masthead.jpg"); */
-    background: url("../pics/bg-masthead.jpg");
+    background: url("../pics/bg-image.jpg");
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,.6);
     background-position: center;
     background-repeat: no-repeat;
