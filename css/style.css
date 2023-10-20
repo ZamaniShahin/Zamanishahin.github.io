@@ -228,6 +228,7 @@ header.masthead h1 {
     color: #fff;
     -webkit-transition: opacity 0.25s ease;
     transition: opacity 0.25s ease;
+    background: rgba(0,0,0, 0.7);
     text-align: center;
 }
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category {
