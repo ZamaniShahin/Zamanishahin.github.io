@@ -226,12 +226,15 @@ header.masthead h1 {
     text-align: center;
     opacity: 0;
     color: #fff;
-    background: rgba(244, 98, 58, 0.9);
+    background: rgba(0,0,0, 0.7);
     -webkit-transition: opacity 0.25s ease;
     transition: opacity 0.25s ease;
     text-align: center;
 }
-
+.custom-style{
+    padding: 16px;
+    font-size: 2rem;
+}
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category {
     font-family: 'arial';
     font-size: 0.85rem;
